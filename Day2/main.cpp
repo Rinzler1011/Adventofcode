@@ -62,7 +62,7 @@ int main() {
 
     inputFile.close();
 
-    int count;
+    // int count;
 
     // for(const auto& row: allNumbers){
 

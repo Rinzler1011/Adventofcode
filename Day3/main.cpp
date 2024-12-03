@@ -18,7 +18,7 @@ int main() {
     std::string line;
     std::regex mul_regex(R"(mul\(\d*,\d*\)|do\(\)|don't\(\))");
 
-    // name is stack because I was using a stack for part 1
+    // name is stack because I was using a stack for part 1.
     std::queue<std::string> stack;
 
     while (std::getline(inputFile, line)) {

@@ -71,6 +71,7 @@
     "execution": "cpp",
     "sstream": "cpp",
     "fstream": "cpp",
-    "iomanip": "cpp"
+    "iomanip": "cpp",
+    "regex": "cpp"
   }
 }
